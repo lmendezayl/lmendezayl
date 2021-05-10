@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lmendezayl (Lautaro Mendez, Chaucha for friends\n;
-- 👀 I’m interested in videogames, programming, maths, and all that stuff nobody seems to like\n;
-- 🌱 I’m currently learning Systems engineering at UTN FRBA (Argentina). I'm currently learning basic C++ at college and C# in my freetime\n;
-- 📫 How to reach me: Instagram: laumendezay, Twitter: laumendezay, Email: lmendezayl@gmail.com\n;
+- 👋 Hi, I’m @lmendezayl (Lautaro Mendez, Chaucha for friends)
+- 👀 I’m interested in videogames, coding, maths and music
+- 🌱 I’m currently learning Systems engineering at UTN FRBA (Argentina). I'm also learning C++ at college and C# in my freetime
+- 📫 Instagram: laumendezay | Twitter: laumendezay | Email: lmendezayl@gmail.com
 
 return 0;
 <!---
