@@ -1,6 +1,4 @@
- Hi, I’m lmendezayl!
- I’m a CS student at UBA.
- Instagram: laumendezay | Twitter: laumendezay | Email: lmendezayl@gmail.com
+Instagram: laumendezay | Twitter: laumendezay | Email: lmendezayl@gmail.com
 
 
 <!---
