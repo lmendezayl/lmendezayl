@@ -1,7 +1,6 @@
 Instagram: @laumendezay 
 Twitter: @laumendezay 
 Email: lmendezayl@gmail.com 
-Personal Portfolio: https://lmendezayl.github.io/portfolio/
 
 
 <!---
