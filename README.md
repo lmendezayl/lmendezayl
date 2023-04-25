@@ -1,4 +1,4 @@
-Hola! Me llamo Lautaro Mendez, y este es mi perfil. Me encuentro estudiando la carrera de Ciencias de la Computacion en la Universidad de Buenos Aires. En mi perfil podes encontrar varios repositorios utiles. 
+Hola! Me llamo Lautaro Mendez. Actualmente estudio la carrera de Ciencias de la Computacion en la Universidad de Buenos Aires. 
 
 
 Si queres contactarme, podes usar
