@@ -1,13 +1,16 @@
 Hola! Me llamo Lautaro Mendez. Actualmente estudio la carrera de Ciencias de la Computacion en la Universidad de Buenos Aires. 
 
+Estoy cursando Algebra I e Introducción a la Programación (Matemática Discreta y Algoritmos 1 para los amigos).
 
-Si queres contactarme, podes usar
+Si queres contactarme, podes usar:
 
-Mi instagram: @laumendezay
+Instagram: @laumendezay
 
-Mi twitter: @laumendezay
+Twitter: @laumendezay
 
-O si queres algo un poco mas profesional, mi LinkedIn: ar.linkedin.com/lautaro-mendez-ayala
+O si queres algo un poco mas profesional,
+
+LinkedIn: ar.linkedin.com/lautaro-mendez-ayala
 
 
 <!---
