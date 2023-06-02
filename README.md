@@ -8,6 +8,8 @@ Instagram: @laumendezay
 
 Twitter: @laumendezay
 
+Gmail: lmendezayl@gmail.com
+
 O si queres algo un poco mas profesional,
 
 LinkedIn: ar.linkedin.com/lautaro-mendez-ayala
