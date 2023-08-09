@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning **advanced search algorithms and computer architecture**  
   
-- 📫 How to reach me **lmendezayl@gmail.com**  
+- 📫 Reach me via email: **lmendezayl@gmail.com**  
   
 - 📄 Know about my experiences: I have made an intership in an Oracle-based IT Consulting enterprise.
   
