@@ -11,6 +11,8 @@
   
 - 📄 Know about my experiences: I have made an intership in an Oracle-based IT Consulting enterprise.
 
+- 💻 Visit my personal webpage portfolio: <a href="https://lmendezayl.vercel.app" target="_blank" rel="noreferrer">lmendezayl.vercel.app</a>
+
 <h3 align="left">Connect with me via LinkedIn:&nbsp&nbsp<a href="https://www.linkedin.com/in/lautaro-mendez-ayala/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="25" height="25"/></a></h3> 
 
 <h3 align="left">💻⚙️ Languages and Tools:</h3>  
