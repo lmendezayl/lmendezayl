@@ -12,7 +12,7 @@ class Attributes(Tekky):
             discord  = "roguesir"
             telegram = "t.me/lmendezayl"
             email    = "lmendezayl@gmail.com"
-            webpage  = "lmendezayll.vercel.app"
+            webpage  = "lmendezayl.vercel.app"
             
             return discord, telegram, email, webpage
         
