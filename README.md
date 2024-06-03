@@ -1,50 +1,22 @@
-  ```c++
-#include <iostream>
-#include <vector>
-#include <string>
+<h1 align="center">Hello, world! Lautaro (lmendezayl) Mendez here</h1>
+<h3 align="center">A 20 y/o passionate about programming, music and mathematics. </h3>
 
-using namespace std;
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=roguesir360&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-class Attributes {
-public:
-    static tuple<string, string> contact() {
-        string email = "lmendezayl@gmail.com";
-        string webpage = "lmendezayl.vercel.app";
-        return make_tuple(email, webpage);
-    }
-
-    static tuple<vector<string>, int> life() {
-        vector<string> langs = {"Spanish", "English", "Italian"};
-        int age = 20;
-        return make_tuple(langs, age);
-    }
-
-    static tuple<vector<string>, vector<string>, vector<string>> coding() {
-        vector<string> langs = {"python", "haskell", "cpp", "java", "R", "julia"};
-        vector<string> specialities = {"data mining", "data visualization"};
-        vector<string> environment = {"nvim"};
-        return make_tuple(langs, specialities, environment);
-    }
-}
-```
-
-<h3 align="left">Connect with me via LinkedIn:&nbsp<a href="https://www.linkedin.com/in/lautaro-mendez-ayala/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="20" height="20"/></a></h3> 
+## Connect with me at: 
+<p align="left">
+<a href="https://linkedin.com/in/lautaro-mendez-ayala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lmendezayl" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15786259/lmendezayala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lmendezayl" height="30" width="40" /></a>
+<a href="https://instagram.com/laumendezay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laumendezay" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Skills</h2>  
-<p align="center">
-<a href="https://haskell.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="haskell" width="40" height="40" title="Haskell"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/> </a> 
-<a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40" title="R"/> </a> 
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" title="Jupyter"/> </a> 
-<a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="nvim" width="40" height="40" title="Vim"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/> </a> 
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lmendezayl&show_icons=true&locale=en&layout=compact&theme=synthwave&hide_border=true" alt="lmendezayl" /></p>  
-  
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lmendezayl&show_icons=true&locale=en&theme=synthwave&hide_border=true" alt="lmendezayl" /></p>
-<!---
-lmendezayl/lmendezayl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Languages and Technologies:
+| Programming Languages | Databases | Misc |
+| :--- | :--- | :--- |
+|![Python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Haskell](https://img.shields.io/badge/-Haskell-purple?style=for-the-badge&logo=haskell&logoColor=white)  ![R](https://img.shields.io/badge/-R-grey?style=for-the-badge&logo=R&logoColor=white) ![C++](https://img.shields.io/badge/-C++-darkblue?style=for-the-badge&logo=C%2B%2B&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/postman-orange.svg?&style=for-the-badge&logo=postman&logoColor=white) | ![Neovim](https://img.shields.io/badge/-Neovim-darkgreen?style=for-the-badge&logo=neovim&logoColor=white)  ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-orange.svg?style=for-the-badge&logo=jupyter&logoColor=white)    ![Shell](https://img.shields.io/badge/-Shell-black?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 
+## My GitHub stats:
+[![Lautaro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lmendezayl&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lmendezayl&show_icons=true&locale=en&layout=compact&theme=city_lights" alt="lmendezayl" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lmendezayl&show_icons=true&locale=en&theme=city_lights" alt="lmendezayl" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lmendezayl&theme=city-lights" alt="lmendezayl" /></p>
