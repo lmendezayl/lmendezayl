@@ -1,7 +1,8 @@
-<h1 align="center">Hello, world! Lautaro (lmendezayl) Mendez here</h1>
-<h3 align="center">A 20 y/o passionate about programming, music and mathematics. </h3>
+<h1 align="center">hello, world 
+<h3 align="center">Lautaro Mendez (lmendezayl) here</h1>
+<h3 align="center">A 21 y/o passionate about programming, music and mathematics. </h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=roguesir360&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<!--- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=roguesir360&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) --->
 
 ## Connect with me at: 
 <p align="left">
@@ -13,7 +14,7 @@
 ## Languages and Technologies:
 | Programming Languages | Databases | Misc |
 | :--- | :--- | :--- |
-|![Python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Haskell](https://img.shields.io/badge/-Haskell-purple?style=for-the-badge&logo=haskell&logoColor=white)  ![R](https://img.shields.io/badge/-R-grey?style=for-the-badge&logo=R&logoColor=white) ![C++](https://img.shields.io/badge/-C++-darkblue?style=for-the-badge&logo=C%2B%2B&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/postman-orange.svg?&style=for-the-badge&logo=postman&logoColor=white) | ![Neovim](https://img.shields.io/badge/-Neovim-darkgreen?style=for-the-badge&logo=neovim&logoColor=white)  ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-orange.svg?style=for-the-badge&logo=jupyter&logoColor=white)    ![Shell](https://img.shields.io/badge/-Shell-black?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+|![C](https://img.shields.io/badge/-C-darkblue?style=for-the-badge&logo=C%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Haskell](https://img.shields.io/badge/-Haskell-purple?style=for-the-badge&logo=haskell&logoColor=white)  ![R](https://img.shields.io/badge/-R-grey?style=for-the-badge&logo=R&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/postman-orange.svg?&style=for-the-badge&logo=postman&logoColor=white) | ![Neovim](https://img.shields.io/badge/-Neovim-darkgreen?style=for-the-badge&logo=neovim&logoColor=white)  ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-orange.svg?style=for-the-badge&logo=jupyter&logoColor=white)    ![Bash](https://img.shields.io/badge/-Shell-black?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 
 ## My GitHub stats:
 [![Lautaro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lmendezayl&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
