@@ -1,4 +1,4 @@
-i'm a data science 2nd year student at uba interested in security, mathematics, machine learning and open source. currently interested in linux kernel and dwm
+i'm a data science 3rd year student at uba interested in security, mathematics, machine learning and everything-open-source-ness. currently interested in learning lowlevel programming and blas algorithms
 
 connect with me at:  
 <a href="https://mastodon.social/@lmendezayl" target="blank">mastodon</a>
