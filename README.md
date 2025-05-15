@@ -1,4 +1,4 @@
-i'm a data science 3rd year student at uba interested in mathematics, machine learning, numerical methods and subways. currently taking courses in advanced analysis, data viz and analysis, and deep learning.
+i'm a data science 3rd year student at university of Buenos Aires interested in mathematics, statistics and neural networks. currently taking courses in advanced analysis, data analysis, and deep learning.
 
 for more info visit my <a href="https://lmendezayl.github.io" target="blank">website</a> or connect with me at <a href="https://linkedin.com/in/lmendezayala" target="blank">linkedin</a> or <a href="https://stackoverflow.com/users/15786259/lmendezayala" target="blank">stackoverflow</a>
 
