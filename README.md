@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=lmendezayl&abbreviated=true&color=314d7d)
+
 Data Scientist at University of Buenos Aires (UBA), focused on mathematics, statistics, and neural networks.
 
 Currently taking courses in:
