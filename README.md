@@ -9,7 +9,7 @@ Currently taking courses in:
 
 ## Tech Stack
 - Languages: Python, SQL, Java, JavaScript
-- Python: pandas, scikit-learn, PyTorch, Flask, nltk
+- Python: pandas, scikit-learn, PyTorch, Flask, nltk, Selenium
 - Tools: MLFlow, Git, GitHub, Docker, CI/CD (GitHub Actions), Linux
 
 
