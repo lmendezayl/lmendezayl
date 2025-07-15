@@ -4,15 +4,13 @@
 I'm a Data Scientist at University of Buenos Aires (UBA), focused on mathematics, statistics, and neural networks.
 
 Currently taking courses in:
-- Advanced Analysis
-- Data Analysis 
-- Deep Learning
+- Algorithm Design Techniques
+- Probability
 
 ## Tech Stack
-- Lenguajes: Python, SQL, JavaScript(AppScript)
-- Librerias: pandas, scikit-learn, PyTorch, Flask, nltk
-- GCP: BigQuery, Cloud SQL, Cloud Run, Cloud Functions, Pub/Sub
-- Herramientas: MLFlow, Git, GitHub, Docker, CI/CD (GitHub Actions), Linux
+- Languages: Python, SQL, Java, JavaScript
+- Python: pandas, scikit-learn, PyTorch, Flask, nltk
+- Tools: MLFlow, Git, GitHub, Docker, CI/CD (GitHub Actions), Linux
 
 
 ## Connect With Me
