@@ -14,7 +14,6 @@ Currently taking courses in:
 
 
 ## Connect With Me
-🌐 [Personal Website](https://lmendezayl.github.io)  
 💼 [LinkedIn](https://linkedin.com/in/lmendezayala)  
 
 Or write me at lmendezayl@gmail.com
