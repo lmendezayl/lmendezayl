@@ -5,7 +5,7 @@ I'm a Data Scientist at University of Buenos Aires (UBA), Argentina. Focused on 
 
 Currently taking courses in:
 - Algorithm Design Techniques
-- Probability
+- Differential Equations
 
 ## Tech Stack
 - Languages: Python, SQL, Java, JavaScript
