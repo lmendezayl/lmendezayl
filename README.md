@@ -1,22 +1,8 @@
-![](https://komarev.com/ghpvc/?username=lmendezayl&abbreviated=true&color=314d7d)
+ ![easter egg owo](https://github.com/lmendezayl/lmendezayl/blob/main/f9576fca9fc8ef79976a1d6327bbe9ae.gif)
 
-### Hi! I'm Lautaro.
-I'm a Data Scientist at University of Buenos Aires (UBA), Argentina. Focused on mathematics, statistics, and neural networks.
-
-Currently taking courses in:
-- Algorithm Design Techniques
-- Differential Equations
-
-## Tech Stack
-- Languages: Python, SQL, Java, JavaScript
-- Python: pandas, scikit-learn, PyTorch, Flask, nltk, Selenium
-- Tools: MLFlow, Power BI, Git, GitHub, Docker, CI/CD (GitHub Actions), Linux
-
-
-## Connect With Me
-💼 [LinkedIn](https://linkedin.com/in/lmendezayala)  
-
-Or write me at lmendezayl@gmail.com
-
+## About me
+- i'm a 4th year data science student trying to land an internship for summer :D
+- I code daily, write often, read sometimes.
+  
 ## Currently Listening
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=roguesir360&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true&bar_color=53b14f)](https://open.spotify.com/user/roguesir360)
