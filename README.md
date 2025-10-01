@@ -1,7 +1,7 @@
  ![easter egg owo](https://github.com/lmendezayl/lmendezayl/blob/main/f9576fca9fc8ef79976a1d6327bbe9ae.gif)
 
 ## About me
-- I'm a 4th year Data Sciente student at University of Buenos Aires, currently working at Grupo Penna as Data Engineer.
+- I'm a 4th year Data Science student at University of Buenos Aires, currently working at Grupo Penna as Data Engineer.
 - I code daily, write often, read sometimes.
   
 ## Currently Listening
