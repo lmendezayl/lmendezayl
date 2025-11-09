@@ -8,14 +8,14 @@
 ## Featured Repositories
 
 <a href="https://github.com/lmendezayl/eda-censo2022">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmendezayl&repo=eda-censo2022" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmendezayl&repo=eda-censo2022&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/lmendezayl/modelado-continuo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmendezayl&repo=modelado-continuo" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmendezayl&repo=modelado-continuo&theme=vision-friendly-dark" />
 </a>
 
 ## Coding Stats
-[![stats](https://github-readme-stats.vercel.app/api/wakatime?username=lmendezayl)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api/wakatime?username=lmendezayl&theme=vision-friendly-dark)](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
 
 ## Currently Listening
