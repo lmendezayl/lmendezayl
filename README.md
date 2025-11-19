@@ -1,6 +1,5 @@
 ![easter egg owo](https://github.com/lmendezayl/lmendezayl/blob/main/f9576fca9fc8ef79976a1d6327bbe9ae.gif)
 
-
 ## About me
 - I'm a 4th year Data Science student at University of Buenos Aires, currently working at Grupo Penna as Data Engineer.
 - I code daily, write often, read sometimes.
@@ -16,6 +15,7 @@
 
 ## Coding Stats
 [![stats](https://github-readme-stats.vercel.app/api/wakatime?username=lmendezayl&theme=vision-friendly-dark)](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmendezayl&hide=jupyter%20notebook&langs_count=4&theme=vision-friendly-dark&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Currently Listening
