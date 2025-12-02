@@ -3,9 +3,9 @@
 ## About me
 - I'm a 4th year Data Science student at University of Buenos Aires, currently working at Grupo Penna as Data Engineer.
 - I code daily, write often, read sometimes.
-
-## Featured Repositories
 <!--
+## Featured Repositories
+
 <a href="https://github.com/lmendezayl/eda-censo2022">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmendezayl&repo=eda-censo2022&theme=vision-friendly-dark" />
 </a>
